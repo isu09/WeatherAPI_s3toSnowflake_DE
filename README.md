@@ -17,6 +17,8 @@ Data Ingestion to Snowflake: Developed ETL processes to efficiently ingest proce
 
 Optimized and Scalable Solutions: Ensured the pipeline's scalability and efficiency by implementing serverless and event-driven technologies across the entire data flow.
 
+STEPS:
+
 
 Get the Weather API-Free -weatherAPI.com
 AWS -Create a Free tier Account
