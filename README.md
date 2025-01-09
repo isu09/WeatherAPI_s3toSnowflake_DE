@@ -1,5 +1,23 @@
 #End-To-End Data Engineering Project in | AWS | Snowflake | DynamoDB | Realtime Project
 
+![image](https://github.com/user-attachments/assets/30524849-cc4d-4b1f-afe1-19303b2d00cc)
+
+
+Developed and Implemented Real-Time Weather Data Ingestion Pipeline
+
+Weather API Integration: Designed and integrated a system to fetch real-time weather data from external Weather APIs.
+
+AWS Services Utilization: Leveraged AWS EventBridge for event-driven architecture to trigger data ingestion workflows, and AWS Lambda for serverless processing of weather data.
+
+Data Storage: Utilized DynamoDB to store weather data in a scalable NoSQL database, ensuring high availability and low-latency access.
+
+Data Processing & Storage: Automated data storage in AWS S3 for reliable, cost-effective storage of raw and processed data.
+
+Data Ingestion to Snowflake: Developed ETL processes to efficiently ingest processed weather data into Snowflake for analytics and reporting.
+
+Optimized and Scalable Solutions: Ensured the pipeline's scalability and efficiency by implementing serverless and event-driven technologies across the entire data flow.
+
+
 Get the Weather API-Free -weatherAPI.com
 AWS -Create a Free tier Account
 Snowflake- Create 40 days Free tier Account
