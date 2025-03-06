@@ -1,6 +1,7 @@
 #End-To-End Data Engineering Project in | AWS | Snowflake | DynamoDB | Realtime Project
 
-![image](https://github.com/user-attachments/assets/30524849-cc4d-4b1f-afe1-19303b2d00cc)
+![image](https://github.com/user-attachments/assets/1a4e96ab-9f0f-47bd-a6fc-882bc8d868bd)
+
 
 
 Developed and Implemented Real-Time Weather Data Ingestion Pipeline
